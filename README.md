@@ -1,3 +1,3 @@
 # learn_git
-* techytushar
+* techytushar (https://techytushar.github.io)
 * Sneha Omer
